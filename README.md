@@ -53,4 +53,4 @@ Random Forest achieved the highest performance with 79% accuracy.
 - XGBoost
 
 ## Author
-Moradi
+Grandjean
